@@ -2,8 +2,6 @@
                         time limit per test1 second
                         memory limit per test256 megabytes
 
-
-
 Sherbiny is dumb, that's why he hates maths so much.
 One day Samer challenged Sherbiny to solve the following problem:
 Given two numbers a and b
@@ -15,8 +13,7 @@ Input
 The first and only line of the input contains 2 numbers a, b (1≤a,b≤10^9)
 
 Output
-You should output one integer a∗b
-.
+You should output one integer a∗b.
 
 
 Examples
