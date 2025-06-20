@@ -67,7 +67,7 @@ nb-configuration.xml
 ## OS X
 .DS_Store
 
-
+*.exe
 # This is a comment in a .gitignore file!
 /node_modules
 *.log

@@ -1,3 +1,13 @@
+# ProblemSolving
+
+Solve one problem every day using:
+- ✅ Python
+- ✅ C++
+- ✅ Java
+- ✅ JavaScript
+
+## Structure
+
 ProblemSolving/
 │
 ├── README.md
